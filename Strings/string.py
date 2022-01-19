@@ -29,3 +29,7 @@ print(lowerstr)
 # Replacing String
 replacestr = string.replace("Hello", "*****")
 print(replacestr)
+
+# Starts with
+ifstrstartwith = string.startswith("G")
+print(ifstrstartwith)
