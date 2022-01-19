@@ -25,3 +25,7 @@ print(countstr)
 # Lower case
 lowerstr = string.lower()
 print(lowerstr)
+
+# Replacing String
+replacestr = string.replace("Hello", "*****")
+print(replacestr)
