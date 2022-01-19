@@ -9,3 +9,7 @@ print(length)
 # Accessing single characters
 char = string[0]
 print(char)
+
+# Accessing substrings
+substr = string[1:3]
+print(substr)
