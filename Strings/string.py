@@ -17,3 +17,7 @@ print(substr)
 # Finding a string
 findstr = string.find("Hellnnno")
 print(findstr)
+
+# Counting 
+countstr = string.count("l")
+print(countstr)
