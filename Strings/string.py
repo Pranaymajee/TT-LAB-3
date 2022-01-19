@@ -13,3 +13,7 @@ print(char)
 # Accessing substrings
 substr = string[1:3]
 print(substr)
+
+# Finding a string
+findstr = string.find("Hellnnno")
+print(findstr)
