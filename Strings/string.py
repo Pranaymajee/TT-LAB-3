@@ -21,3 +21,7 @@ print(findstr)
 # Counting 
 countstr = string.count("l")
 print(countstr)
+
+# Lower case
+lowerstr = string.lower()
+print(lowerstr)
